@@ -74,7 +74,7 @@ const Feature = () => {
             <small className="bg-primary text-white text-uppercase font-weight-bold px-1">
               Why Choose Us
             </small>
-            <h1 className="mt-2 mb-3">25 Years of Digital Excellence</h1>
+            <h1 className="mt-2 mb-3">3 Years of Digital Excellence</h1>
             <h4 className="font-weight-normal text-muted mb-4">
               We specialize in creating cutting-edge mobile applications,
               responsive web solutions, and intuitive user experiences that
