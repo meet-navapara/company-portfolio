@@ -91,7 +91,7 @@ function Navbar() {
             <li data-target="#header-carousel" data-slide-to="2"></li>
           </ol>
 
-          <div className="carousel-inner" style={{ width: "99vw" }}>
+          <div className="carousel-inner" style={{ width: "100%" }}>
             <div className="carousel-item active">
               <img
                 className="img-fluid"
@@ -126,7 +126,7 @@ function Navbar() {
               />
               <div className="carousel-caption d-flex align-items-center justify-content-center">
                 <div className="p-5" style={{ width: "100%", maxWidth: 900 }}>
-                  <h5 className="text-white text-uppercase mb-md-3">
+                    <h5 className="text-white text-uppercase mb-md-3 d-none d-md-block">
                     Creative Agency
                   </h5>
                   <h1 className="display-3 text-white mb-md-4">
@@ -150,7 +150,7 @@ function Navbar() {
               />
               <div className="carousel-caption d-flex align-items-center justify-content-center">
                 <div className="p-5" style={{ width: "100%", maxWidth: 900 }}>
-                  <h5 className="text-white text-uppercase mb-md-3">
+                    <h5 className="text-white text-uppercase mb-md-3 d-none d-md-block">
                     Creative Agency
                   </h5>
                   <h1 className="display-3 text-white mb-md-4">
