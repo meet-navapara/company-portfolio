@@ -10,19 +10,19 @@ const testimonials = [
   {
     text: "Working with Infynitive solution  was an outstanding experience. Their team delivered our website on time, exceeded expectations, and provided ongoing support that truly sets them apart.",
     img: testimonialImg1,
-    name: "Priya Sharma",
+    name: "Walker Brown",
     profession: "Marketing Director, NextGen Solutions",
   },
   {
     text: "Infynitive solution 's app development expertise allowed us to launch our mobile platform seamlessly. The communication and transparency throughout the process were top-notch.",
     img: testimonialImg2,
-    name: "Amit Patel",
+    name: "Harrison Lee",
     profession: "Product Manager, UrbanGrocer",
   },
   {
     text: "The designers at Infynitive solution  have a creative eye and technical finesse. Our new UI/UX has improved user engagement and made our SaaS product a client favorite.",
     img: testimonialImg3,
-    name: "Emily Chen",
+    name: "Smith, Murphy",
     profession: "Founder, SaaSify",
   },
   {

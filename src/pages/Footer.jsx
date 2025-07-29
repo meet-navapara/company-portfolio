@@ -65,26 +65,7 @@ We are committed to client success, building lasting partnerships through techni
             </a>
           </div>
         </div>
-        <div className="col-lg-3 col-md-6 mb-5">
-          <h5 className="font-weight-bold text-primary mb-4">Popular Links</h5>
-          <div className="d-flex flex-column justify-content-start">
-            <a className="text-white mb-2" href="#">
-              <i className="fa fa-angle-right text-primary mr-2"></i>Home
-            </a>
-            <a className="text-white mb-2" href="#">
-              <i className="fa fa-angle-right text-primary mr-2"></i>About Us
-            </a>
-            <a className="text-white mb-2" href="#">
-              <i className="fa fa-angle-right text-primary mr-2"></i>Services
-            </a>
-            <a className="text-white mb-2" href="#">
-              <i className="fa fa-angle-right text-primary mr-2"></i>Pricing
-            </a>
-            <a className="text-white" href="#">
-              <i className="fa fa-angle-right text-primary mr-2"></i>Contact Us
-            </a>
-          </div>
-        </div>
+      
         <div className="col-lg-3 col-md-6 mb-5">
           <h5 className="font-weight-bold text-primary mb-4">Get In Touch</h5>
          
