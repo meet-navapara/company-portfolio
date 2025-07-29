@@ -89,7 +89,7 @@ We are committed to client success, building lasting partnerships through techni
           <h5 className="font-weight-bold text-primary mb-4">Get In Touch</h5>
          
           <p>
-            <i className="fa fa-map-marker-alt text-primary mr-2"></i>123
+            <i className="fa fa-map-marker-alt text-primary mr-2"></i>
             F-138, ABC mall, Surat
           </p>
           <p>
