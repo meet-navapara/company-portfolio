@@ -21,9 +21,9 @@ const AboutSection = () => {
               Most Effective Creative Service Provider For Companies
             </h1>
             <p className="mb-4">
-              ZenCode Solutions is a full-service IT company specializing in
-              delivering cutting-edge digital solutions. Since 2012, we've
-              helped over 300 clients transform their businesses through
+              Infynitive Solutions is a full-service IT company specializing in
+              delivering cutting-edge digital solutions. Since 2021, we've
+              helped over 50 clients transform their businesses through
               innovative web development, mobile applications, and strategic IT
               consulting.
             </p>

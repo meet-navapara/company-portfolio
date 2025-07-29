@@ -35,10 +35,10 @@ const Feature = () => {
 
   const startCounting = () => {
     const targetValues = {
-      years: 25,
-      experts: 225,
-      clients: 1050,
-      projects: 2500,
+      years: 3,
+      experts: 10,
+      clients: 50,
+      projects: 100,
     };
 
     const duration = 1000; // 1 second

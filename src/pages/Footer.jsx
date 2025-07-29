@@ -108,7 +108,7 @@ We are committed to client success, building lasting partnerships through techni
            Infynitive Solution 
         </a>
         . All Rights Reserved. Designed by
-        <a className="font-weight-semi-bold ml-1" href="https://infynivitve.onrender.com/">
+        <a className="font-weight-semi-bold ml-1" href="https://infynitive.onrender.com/">
              Infynitive Solution 
         </a>
       </p>
