@@ -14,7 +14,7 @@ const Footer = () => (
 
 We are committed to client success, building lasting partnerships through technical excellence and reliability.
           </p>
-          <div className="d-flex justify-content-center mt-4">
+          {/* <div className="d-flex justify-content-center mt-4">
             <a
               className="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
               style={{ width: 38, height: 38 }}
@@ -43,7 +43,7 @@ We are committed to client success, building lasting partnerships through techni
             >
               <i className="fab fa-instagram"></i>
             </a>
-          </div>
+          </div> */}
         </div>
         <div className="col-lg-3 col-md-6 mb-5">
           <h5 className="font-weight-bold text-primary mb-4">Quick Links</h5>
@@ -87,15 +87,13 @@ We are committed to client success, building lasting partnerships through techni
         </div>
         <div className="col-lg-3 col-md-6 mb-5">
           <h5 className="font-weight-bold text-primary mb-4">Get In Touch</h5>
-          <p>
-            Dolor clita stet nonumy clita diam vero, et et ipsum diam labore
-          </p>
+         
           <p>
             <i className="fa fa-map-marker-alt text-primary mr-2"></i>123
-            Street, New York, USA
+            F-138, ABC mall, Surat
           </p>
           <p>
-            <i className="fa fa-phone-alt text-primary mr-2"></i>+012 345 67890
+            <i className="fa fa-phone-alt text-primary mr-2"></i>+91 840144 6125
           </p>
           <p>
             <i className="fa fa-envelope text-primary mr-2"></i>info@example.com
@@ -107,11 +105,11 @@ We are committed to client success, building lasting partnerships through techni
       <p className="m-0 text-center">
         &copy;{" "}
         <a className="font-weight-semi-bold" href="#">
-          Your Site Name
+           Infynitive Solution 
         </a>
         . All Rights Reserved. Designed by
-        <a className="font-weight-semi-bold" href="https://htmlcodex.com">
-          HTML Codex
+        <a className="font-weight-semi-bold ml-1" href="https://infynivitve.onrender.com/">
+             Infynitive Solution 
         </a>
       </p>
     </div>

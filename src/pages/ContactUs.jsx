@@ -20,7 +20,7 @@ const ContactUs = () => {
               <i className="fa fa-2x fa-map-marker-alt text-primary mr-3"></i>
               <div className="d-flex flex-column">
                 <h5 className="font-weight-bold">Our Office</h5>
-                <p className="m-0">123 Street, New York, USA</p>
+                <p className="m-0">F-138, ABC mall, Surat</p>
               </div>
             </div>
             <div className="d-flex align-items-center border mb-3 p-4">
@@ -34,7 +34,7 @@ const ContactUs = () => {
               <i className="fas fa-2x fa-phone-alt text-primary mr-3"></i>
               <div className="d-flex flex-column">
                 <h5 className="font-weight-bold">Call Us</h5>
-                <p className="m-0">+012 345 6789</p>
+                <p className="m-0">+91 840144 6125</p>
               </div>
             </div>
           </div>
