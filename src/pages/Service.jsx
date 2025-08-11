@@ -138,8 +138,8 @@ function Service() {
               </small>
               <h1 className="mt-2 mb-3">Clients Say About Our Services</h1>
               <h4 className="font-weight-normal text-muted mb-4">
-                Lorem ut kasd elitr sed est duo ea ipsum justo diam, est erat
-                lorem clita diam elitr
+               We take pride in delivering top-quality service and building lasting relationships.
+Here’s what our clients have to say about working with us.
               </h4>
               <span className="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold">
                 Submit Review
