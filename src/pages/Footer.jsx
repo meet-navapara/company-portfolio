@@ -4,8 +4,8 @@ const Footer = () => (
   <>
     <div className="container-fluid bg-secondary text-white mt-5 pt-5 px-sm-3 px-md-5">
       <div className="row pt-5">
-        <div className="col-lg-3 col-md-6 mb-5">
-          <a href="index.html" className="navbar-brand">
+        <div className="col-lg-4 col-md-6 mb-5">
+          <a  className="navbar-brand">
             <h1 className="m-0 mt-n2 text-white display-4">
               <span className="text-primary">Infy</span>nitive
             </h1>
@@ -45,7 +45,7 @@ We are committed to client success, building lasting partnerships through techni
             </a>
           </div> */}
         </div>
-        <div className="col-lg-3 col-md-6 mb-5">
+        <div className="col-lg-4 col-md-6 mb-5">
           <h5 className="font-weight-bold text-primary mb-4">Quick Links</h5>
           <div className="d-flex flex-column justify-content-start">
             <a className="text-white mb-2" href="#">
@@ -65,10 +65,8 @@ We are committed to client success, building lasting partnerships through techni
             </a>
           </div>
         </div>
-        <div className="col-lg-3 col-md-6 mb-5">
-      
-        </div>
-        <div className="col-lg-3 col-md-6 mb-5">
+ 
+        <div className="col-lg-4 col-md-6 mb-5">
           <h5 className="font-weight-bold text-primary mb-4">Get In Touch</h5>
          
           <p>
@@ -79,7 +77,7 @@ We are committed to client success, building lasting partnerships through techni
             <i className="fa fa-phone-alt text-primary mr-2"></i>+91 840144 6125
           </p>
           <p>
-            <i className="fa fa-envelope text-primary mr-2"></i>info@example.com
+            <i className="fa fa-envelope text-primary mr-2"></i>infynitivesolution@gmail.com
           </p>
         </div>
       </div>

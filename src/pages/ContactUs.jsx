@@ -27,7 +27,7 @@ const ContactUs = () => {
               <i className="fa fa-2x fa-envelope-open text-primary mr-3"></i>
               <div className="d-flex flex-column">
                 <h5 className="font-weight-bold">Email Us</h5>
-                <p className="m-0">info@example.com</p>
+                <p className="m-0">infynitivesolution@gmail.com</p>
               </div>
             </div>
             <div className="d-flex align-items-center border mb-3 mb-md-0 p-4">
